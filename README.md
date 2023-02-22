@@ -31,7 +31,6 @@ Hi there 👋, I'm Mnats. I am a Frontend Developer <img src="https://media.giph
 
 ### Connect with me:
 
-<div>
- <a href="https://vk.com/mnats725"><img align="left" alt="Mnats Avetisyan | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" /></a>
- <a href="https://www.instagram.com/_mnats_/"><img align="left" alt="Mnats Avetisyan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-</div>
+My telegram - https://t.me/mnats7251
+
+
