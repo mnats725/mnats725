@@ -4,7 +4,8 @@
 
 ### :man_technologist: About Me:
 
-Hi there 👋, I'm Mnats. I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Krasnodar. I work at the LifesChanger office.
+Hi there 👋, I'm Mnats. I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Krasnodar.
+I work at the Tech-Crew office.
 
 - 💪 I like to write code
 
