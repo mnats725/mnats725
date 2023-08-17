@@ -32,6 +32,6 @@ I work at the Tech-Crew office.
 
 ### Connect with me:
 
-My telegram - https://t.me/mnats7251
+My telegram - https://t.me/mnats725
 
 
