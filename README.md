@@ -31,7 +31,5 @@ I work at the Tech-Crew office.
 </div>
 
 ### Connect with me:
-
+My site - https://mnats725.github.io/mnats-resume/
 My telegram - https://t.me/mnats725
-
-
