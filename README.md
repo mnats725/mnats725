@@ -1,18 +1,23 @@
-<div align="center">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-## :man_technologist: About Me
+### :man_technologist: About Me:
 
-Hi there 👋, I'm Mnats. I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Krasnodar. I work at the Tech-Crew office.
+Hi there 👋, I'm Mnats. I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Krasnodar.
+I work at the Tech-Crew office.
 
-- 💪 I enjoy writing code.
-- 🥅 I am constantly learning new things.
-- :telescope: I’m working as a Software Engineer and contributing to frontend development for building web applications.
+- 💪 I like to write code
+
+- 🥅 I am constantly learning new things
+
+- :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
+
 - :seedling: Exploring Technical Content Writing.
+
 - :zap: In my free time, I solve problems on Codewars and read tech articles.
 
-## :hammer_and_wrench: Languages and Tools
+### :hammer_and_wrench: Languages and Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -25,8 +30,6 @@ Hi there 👋, I'm Mnats. I am a Frontend Developer <img src="https://media.giph
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
-## Connect with Me
-<div style="display: flex; justify-content: center;">
-  - My site: [https://mnats725.github.io/mnats-resume/](https://mnats725.github.io/mnats-resume/)
-  - My telegram: [https://t.me/mnats725](https://t.me/mnats725)
-</div>
+### Connect with me:
+My site - https://mnats725.github.io/mnats-resume/
+My telegram - https://t.me/mnats725
