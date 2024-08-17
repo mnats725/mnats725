@@ -21,5 +21,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="Google Chrome" alt="Google Chrome" width="40" height="40"/>&nbsp; 
 </div>
 
-### Connect with me:
-My telegram - https://t.me/mnats725
+
